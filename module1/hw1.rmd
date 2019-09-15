@@ -113,3 +113,4 @@ coord_flip() + xlab("Industry") + ylab("Average Revenue Per Employee") + theme(a
 
 
 
+
